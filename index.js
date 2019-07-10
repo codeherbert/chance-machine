@@ -2,7 +2,7 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                <h1>Chance Machine!</h1>
+                <h1 className="name">Chance Machine!</h1>
                 <Machine 
                     s1="🍒"
                     s2="🍒"
